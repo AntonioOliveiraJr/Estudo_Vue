@@ -1,4 +1,4 @@
-# project_school
+# Vue Project School - Udemy
 
 ## Project setup
 ```
